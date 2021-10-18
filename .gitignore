@@ -1,0 +1,8 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+MBed_Adafruit-GPS-Library3_adaptedToMbed6
